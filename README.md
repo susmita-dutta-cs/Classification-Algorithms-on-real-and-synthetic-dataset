@@ -1,1 +1,2 @@
 # Classification-Algorithms-on-real-and-synthetic-dataset
+In this project Support Vector Machine algorithm and Decision Tree algorithms are implemented on a real world and synthetic world dataset . This gives us the possibility to understand the parameters and have a clarity on it. Along with this the decision boundary for every classification is highlighted to understand what it is and how it functions.
